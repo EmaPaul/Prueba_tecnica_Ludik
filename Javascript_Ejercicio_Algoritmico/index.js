@@ -14,10 +14,10 @@ function filtroUrl(nombreArchivo) {
             return;
         }
 
-
+        // Obteniendo el array
         const lineas = data.split('\n').map(linea => linea.trim()).filter(linea => linea); 
 
-       
+       // filtrando
         lineas.forEach(linea => {
             const url = linea.trim(); 
             const coincidenciaDominio = url.match(patronDominio); 
@@ -31,7 +31,7 @@ function filtroUrl(nombreArchivo) {
             }
         });
 
-  
+        // salida
         const filtradas = Array.from(unicas);
         const total = filtradas.length; 
 
