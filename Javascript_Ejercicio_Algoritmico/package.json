@@ -1,0 +1,11 @@
+{
+  "name": "javascript_ejercicio_algoritmico",
+  "version": "1.0.0",
+  "description": "ejercicio_algoritmico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Paul",
+  "license": "ISC"
+}

@@ -1,0 +1,13 @@
+https://shoponline.com/pagina1.html
+https://myshop.net/pagina2.html
+https://example.com/pagina3.html
+https://shopdiscounts.com/products.html
+https://myshop.net/pagina4.txt
+https://shoppingmall.com/item.html
+https://notshop.com/page.html
+https://shopaholic.net/view.html
+https://webshop.org/catalog.html
+https://anotherexample.com/about.html
+https://bestshop.online/store.html
+https://testshop.com/home.html
+https://shop.com/notfound.html
